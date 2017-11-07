@@ -1,4 +1,5 @@
 # C++ objects and libs
+
 *.slo
 *.lo
 *.o
@@ -8,7 +9,9 @@
 *.so
 *.dll
 *.dylib
+
 # Qt-es
+
 object_script.*.Release
 object_script.*.Debug
 *_plugin_import.cpp
@@ -27,12 +30,20 @@ ui_*.h
 *.jsc
 Makefile*
 *build-*
+
 # Qt unit tests
+
 target_wrapper.*
+
 # QtCreator
+
 *.autosave
+
 # QtCtreator Qml
+
 *.qmlproject.user
 *.qmlproject.user.*
+
 # QtCtreator CMake
+
 CMakeLists.txt.user*
